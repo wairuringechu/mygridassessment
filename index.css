@@ -1,0 +1,31 @@
+.bigcontainer{
+    background-color: aliceblue;
+}
+.cont1{
+    background-color: rgb(133, 3, 133);
+    width:40%;
+    height: 60%;
+    margin: 2rem;
+    padding-top: 3rem;
+    border-bottom: 3px;
+}
+.cont2{
+    background-color: gray;
+    width: 40%;
+    height: 40%
+}
+.cont3{
+    background-color: rgba(255, 255, 255, 0.829);
+    width: 40%;
+    height: 40%;
+}
+.cont4{
+    background-color: rgba(19, 1, 1, 0.815);
+    width: 40%;
+    height: 60%;
+}
+.cont5{
+    background-color: rgba(245, 245, 245, 0.76);
+    width: 40%;
+    height: 70%;
+}
